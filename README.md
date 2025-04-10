@@ -14,3 +14,7 @@ You can access the API documentation [here](https://sfg-beer-works.github.io/bre
 ![image](https://github.com/user-attachments/assets/d2de44ee-535a-4eb4-a94c-f4c238f123af)
 
 https://docs.jboss.org/hibernate/orm/5.0/mappingGuide/en-US/html/ch03.html
+
+
+![image](https://github.com/user-attachments/assets/fdd739f5-4a38-4cbf-9921-a531f88e8489)
+![image](https://github.com/user-attachments/assets/9e58af62-e5b4-4105-a8bb-aa7678b2f0df)
