@@ -20,3 +20,4 @@ https://docs.jboss.org/hibernate/orm/5.0/mappingGuide/en-US/html/ch03.html
 ![image](https://github.com/user-attachments/assets/9e58af62-e5b4-4105-a8bb-aa7678b2f0df)
 ![image](https://github.com/user-attachments/assets/f9712e65-0be4-4be5-aa01-77ae1a53452d)
 ![image](https://github.com/user-attachments/assets/2ebb1870-f573-402f-b114-480d4eb0c6b7)
+![image](https://github.com/user-attachments/assets/8e1c34eb-84bf-4c34-b524-8d724f1ebade)
