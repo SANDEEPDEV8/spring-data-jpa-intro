@@ -12,3 +12,5 @@ You can access the API documentation [here](https://sfg-beer-works.github.io/bre
 * Connect with John Thompson on [LinkedIn](http://www.linkedin.com/in/springguru)
   
 ![image](https://github.com/user-attachments/assets/d2de44ee-535a-4eb4-a94c-f4c238f123af)
+
+https://docs.jboss.org/hibernate/orm/5.0/mappingGuide/en-US/html/ch03.html
