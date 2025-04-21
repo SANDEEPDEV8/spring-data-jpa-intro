@@ -10,3 +10,16 @@ You can access the API documentation [here](https://sfg-beer-works.github.io/bre
 * Like Spring Framework Guru on [Facebook](https://www.facebook.com/springframeworkguru/)
 * Follow Spring Framework Guru on [Twitter](https://twitter.com/spring_guru)
 * Connect with John Thompson on [LinkedIn](http://www.linkedin.com/in/springguru)
+
+
+----
+## Added UUID RFC 4122 (uuid2)
+* addedd BookUuid model
+* added book_uuid table
+* migration V6
+
+uuid2 will show as binary blob in table
+to view it
+```
+SELECT hex(id) from bookdb.book_uuid
+```
